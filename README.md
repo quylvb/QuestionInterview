@@ -29,7 +29,7 @@ PHP
 + hàm xử lí của php thì rất nhiều, bạn nên tham khảo những hàm của php trên trang chủ của php để tham khảo.
 8: $$ có nghĩa là gì
 + gắn tên cho biến:
-+ ví dụ $a = "hello"; thì ta có $$a = $hello
++ ví dụ $a = "hello" --- thì ta có  $$a = $hello
 9: Khi tắt cookie trên trình duyệt thì có ảnh hưởng tới session không:
 + không thể sử dụng được cả cookie và session khi tắt cookie, vì bản chất là session khi hoạt động cũng sẽ tạo một cookie trên trình duyệt để lưu dữ liệu, nên khi tắt cookie trên trình duyệt thì session cũng không sử dụng được
 
