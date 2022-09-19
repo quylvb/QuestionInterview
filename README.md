@@ -27,9 +27,12 @@ PHP
 + Thêm một hoặc nhiều phần tử vào cuối mảng và trả về số lượng phần tử của mảng ta dùng hàm gì? array_push()
 + Hàm nào  sẽ chuyển một chuỗi $string thành một mảng các phần tử explode ();
 + hàm xử lí của php thì rất nhiều, bạn nên tham khảo những hàm của php trên trang chủ của php để tham khảo.
+
 8: $$ có nghĩa là gì
 + gắn tên cho biến:
-+ ví dụ $a = "hello" --- thì ta có  $$a = $hello
++ ví dụ: $a = "hello"
++ thì ta có:  $$a = $hello.
+
 9: Khi tắt cookie trên trình duyệt thì có ảnh hưởng tới session không:
 + không thể sử dụng được cả cookie và session khi tắt cookie, vì bản chất là session khi hoạt động cũng sẽ tạo một cookie trên trình duyệt để lưu dữ liệu, nên khi tắt cookie trên trình duyệt thì session cũng không sử dụng được
 
